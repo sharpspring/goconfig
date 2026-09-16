@@ -11,7 +11,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/santiclause/env"
+	"github.com/sharpspring/env"
 	"gopkg.in/yaml.v2"
 )
 
