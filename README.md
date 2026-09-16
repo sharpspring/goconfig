@@ -10,7 +10,7 @@ you're essentially good to go. Observe:
 package main
 import (
     "time"
-    "github.com/santiclause/goconfig"
+    "github.com/sharpspring/goconfig"
 )
 type Config struct {
 	HttpPort            int           `yaml:"http_port" env:"HTTP_PORT"`
